@@ -1,0 +1,10 @@
+D:\goruntu_isleme\histogram\histogram\bin\Debug\histogram.exe.config
+D:\goruntu_isleme\histogram\histogram\bin\Debug\histogram.exe
+D:\goruntu_isleme\histogram\histogram\bin\Debug\histogram.pdb
+D:\goruntu_isleme\histogram\histogram\obj\Debug\histogram.csproj.AssemblyReference.cache
+D:\goruntu_isleme\histogram\histogram\obj\Debug\histogram.Form1.resources
+D:\goruntu_isleme\histogram\histogram\obj\Debug\histogram.Properties.Resources.resources
+D:\goruntu_isleme\histogram\histogram\obj\Debug\histogram.csproj.GenerateResource.cache
+D:\goruntu_isleme\histogram\histogram\obj\Debug\histogram.csproj.CoreCompileInputs.cache
+D:\goruntu_isleme\histogram\histogram\obj\Debug\histogram.exe
+D:\goruntu_isleme\histogram\histogram\obj\Debug\histogram.pdb
